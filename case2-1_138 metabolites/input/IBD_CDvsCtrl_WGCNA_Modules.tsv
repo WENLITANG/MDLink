@@ -1,0 +1,387 @@
+metabolite	module
+1,2,3,4-tetrahydro-1-methyl-beta-carboline-3-carboxylic acid	6
+1,2,3,4-tetrahydro-b-carboline-1,3-dicarboxylic acid	4
+1-3-7-trimethylurate	6
+1-methylguanine	10
+1-methylnicotinamide	2
+12.13-diHOME	10
+13-docosenoate	19
+2-aminobutyric acid	3
+2-deoxyadenosine	3
+2-hydroxy-3-methylpentanoic acid /  leucinic acid	2
+2-hydroxyglutarate	10
+2-hydroxyhexadecanoate	4
+2-hydroxymyristic acid	4
+2-hydroxyphenethylamine	8
+2-methylglutaric acid	6
+3-methyladipate-pimelate	4
+3-methylhistidine	10
+3-methylxanthine	10
+4-guanidinobutanoic acid	2
+4-hydroxy-3-methylacetophenone	4
+4-hydroxybenzaldehyde	3
+4-hydroxystyrene	10
+4-methylcatechol	6
+4-nitrophenol	10
+4-pyridoxate	3
+5-acetylamino-6-amino-3-methyluracil	6
+5alpha-cholestanol	4
+7-hexadecenoic acid methyl ester	13
+7-ketodeoxycholate	4
+7-methylguanine	10
+8-hydroxy-deoxyguanosine	10
+9.10-diHOME	10
+ADMA	2
+ADMA/SDMA*	2
+C14 carnitine	15
+C14:0 CE	5
+C14:0 SM	11
+C16 carnitine	15
+C16:0 CE	5
+C16:0 LPC	9
+C16:0 LPE	10
+C16:0 SM	11
+C16:0 ceramide (d18:1)	15
+C16:1 CE	5
+C16:1 CE*	5
+C16:1 LPC plasmalogen*	9
+C16:1 MAG	13
+C16:1 MAG*	13
+C16:1 SM	11
+C18 carnitine	15
+C18:0 CE	5
+C18:0 LPC	9
+C18:0 MAG	13
+C18:0 SM	11
+C18:0e MAG	7
+C18:1 CE	5
+C18:1 LPC	12
+C18:1 LPC plasmalogen*	9
+C18:1 LPC*	12
+C18:1 carnitine	15
+C18:2 CE	5
+C18:2 CE*	5
+C18:2 LPC	12
+C18:2 carnitine	15
+C18:3 CE	5
+C18:3 CE*	5
+C18:3 LPC	9
+C2 carnitine	8
+C20 carnitine	5
+C20:0 LPE	13
+C20:3 CE	5
+C20:3 CE*	5
+C20:4 CE	5
+C20:4 carnitine	4
+C20:5 CE	5
+C20:5 LPC	12
+C22:0 SM	11
+C22:1 MAG	13
+C22:1 SM	11
+C22:4 CE	5
+C22:4 CE*	5
+C22:5 CE	5
+C22:5 CE*	5
+C22:6 CE	5
+C24:0 SM	11
+C24:0 TAG	13
+C24:1 SM	11
+C3-DC-CH3 carnitine	7
+C30:0 DAG	24
+C32:0 DAG	24
+C32:1 PC	7
+C32:2 DAG*	10
+C34:0 DAG*	23
+C34:0 PE	11
+C34:1 DAG*	10
+C34:1 PC	20
+C34:1 PC plasmalogen-A	9
+C34:2 DAG	10
+C34:2 DAG*	10
+C34:2 PC	20
+C34:3 DAG	10
+C34:3 DAG*	10
+C36:0 DAG	23
+C36:1 PC	10
+C36:2 DAG	10
+C36:2 DAG*	10
+C36:2 PC	20
+C36:2 PC plasmalogen	9
+C36:2 PC*	20
+C36:3 DAG	10
+C36:3 DAG*	10
+C36:3 PC	20
+C36:4 DAG	10
+C36:4 DAG*	10
+C36:4 PC-A	20
+C36:4 PC-B	20
+C36:5 PC plasmalogen-A	15
+C36:5 PC plasmalogen-B	9
+C38:5 DAG*	9
+C4 carnitine	8
+C42:0 TAG	16
+C44:0 TAG	16
+C44:0 TAG*	16
+C44:1 TAG	16
+C46:0 TAG	24
+C46:0 TAG*	24
+C46:1 TAG	16
+C46:1 TAG*	16
+C46:2 TAG	16
+C46:2 TAG*	16
+C48:0 TAG	24
+C48:0 TAG*	24
+C48:1 TAG	17
+C48:2 TAG	17
+C48:2 TAG*	17
+C48:3 TAG	17
+C48:4 TAG	10
+C49:1 TAG	10
+C50:0 TAG	23
+C50:1 TAG	25
+C50:1 TAG*	25
+C50:2 TAG	10
+C50:3 TAG	17
+C50:3 TAG*	17
+C50:4 TAG	17
+C50:4 TAG*	17
+C50:5 TAG	10
+C51:0 TAG*	23
+C51:2 TAG*	10
+C51:3 TAG*	10
+C52:0 TAG	23
+C52:0 TAG*	23
+C52:1 TAG	25
+C52:1 TAG*	25
+C52:2 TAG	10
+C52:2 TAG*	10
+C52:3 TAG	10
+C52:3 TAG*	10
+C52:4 TAG	10
+C52:4 TAG*	10
+C52:5 TAG	10
+C52:5 TAG*	10
+C52:6 TAG	10
+C52:6 TAG*	10
+C52:7 TAG	10
+C53:3 TAG*	10
+C54:1 TAG	25
+C54:2 TAG	10
+C54:3 TAG	10
+C54:3 TAG*	10
+C54:4 TAG	10
+C54:4 TAG*	10
+C54:5 TAG	10
+C54:5 TAG*	10
+C54:6 TAG	10
+C54:6 TAG*	10
+C54:7 TAG	10
+C54:8 TAG	10
+C54:9 TAG	10
+C55:2 TAG*	10
+C55:3 TAG*	10
+C56:1 TAG	10
+C56:1 TAG*	10
+C56:2 TAG	10
+C56:2 TAG*	10
+C56:3 TAG	10
+C56:3 TAG*	10
+C56:4 TAG	10
+C56:4 TAG*	10
+C56:5 TAG	10
+C56:6 TAG	10
+C56:6 TAG*	10
+C56:7 TAG	10
+C58:6 TAG	10
+C58:7 TAG	3
+L-1,2,3,4-tetrahydro-beta-carboline-3-carboxylic acid*	4
+L-phenyllactic acid	3
+N-acetyl-L-arginine	20
+N-acetylglutamate	4
+N-acetylglutamic acid	4
+N-acetylhistidine	3
+N-acetylputrescine	2
+N-acetylspermidine	2
+N-methylproline	6
+N-oleoylethanolamine	7
+NMMA	2
+acesulfame	10
+acetylalanine	2
+acetylcholine	6
+acetytyrosine	3
+adenine	4
+adrenic acid	7
+alanine	2
+alpha-hydroxybutyrate	11
+alpha-ketoglutarate	3
+alpha-ketoisovalerate	3
+alpha-linolenic acid	10
+alpha-muricholate	8
+anserine	9
+arachidonic acid	9
+arginine	10
+ascorbate	6
+asparagine	2
+aspartate	2
+atenolol	2
+azelaic acid	6
+azelate	6
+beta-alanine	2
+beta-sitosterol	7
+betaine	12
+bilirubin	7
+butyrate / isobutytare*	3
+butyrobetaine	10
+caffeine	10
+caproic acid	4
+caprylic acid	16
+carnitine	8
+carnosine	12
+carnosol	4
+chenodeoxycholate	8
+chenodeoxycholate/deoxycholate*	21
+cholate	8
+cholestenone	4
+cholesterol	7
+choline	12
+citrate	12
+citrulline	2
+creatine	8
+creatinine	8
+cystine	2
+cytosine	10
+deoxycholic acid	21
+deoxyinosine	3
+diacetylspermine	2
+dihydroxybenzoic acid	10
+dimethyllysine	2
+docosahexaenoic acid	9
+docosapentaenoate	7
+docosapentaenoic acid	7
+dodecanedioic acid	4
+eicosapentaenoic acid	9
+eicosatrienoic acid	7
+eicosenoate	19
+epoxysqualene	3
+erythronic acid	8
+ethyl 9-hexadecenoate	10
+ethyl glucuronide	11
+fructose/glucose/galactose*	2
+fucose	2
+fumarate/maleate*	3
+geranyl acetoacetate*	4
+glucurote	3
+glutamate	3
+glutamine	2
+glycerate	10
+glycocholate	8
+glycodeoxycholic acid	21
+glycolithocholic acid	21
+glycoursodeoxycholic acid	8
+guanine	4
+guanosine	10
+heptadecanoate	19
+hexadecanedioic acid	13
+histamine	2
+histidine	2
+homovanillate	3
+hydrocinnamic acid	4
+hydroxyisovaleric acid	2
+hydroxyproline	12
+hyodeoxycholate/ursodeoxycholate*	21
+hypoxanthine	3
+imidazole propionate	10
+imidazolelactate	8
+inosine	10
+isoleucine	2
+ketodeoxycholate	8
+kynurenic acid	12
+lactate	12
+lactose	2
+leucine	2
+levoglucosan	2
+linoleic acid	10
+linoleoyl ethanolamide	7
+lithocholate	21
+lithocholic acid	21
+lysine	2
+malate	3
+malonate	8
+maslinic acid	4
+methionine	2
+methionine sulfoxide	13
+methylbutyric aid / valeric / isovaleric*	6
+methylpyridonecarboxamide	2
+myristic acid	19
+nervonic acid	19
+nicotinate	6
+nicotinic acid	10
+oleanolic acid	4
+oleic acid	10
+ornithine	10
+orotate	3
+oxalate	2
+p-hydroxyphenylacetate	2
+palmitic acid	19
+palmitoleic acid	5
+palmitoyl glycerol	11
+palmitoylethanolamide	7
+pantothenate	10
+pantothete	10
+pentadecanoate	4
+phenylacetate	6
+phenylalanine	2
+phenyllactate	10
+phytosphingosine	7
+pipecolic acid	4
+piperine	7
+proline	2
+proline betaine	3
+propionate	3
+pseudouridine	3
+putrescine	2
+pyridoxamine	6
+pyrocatechol	3
+pyroglutamic acid	2
+ribitol	13
+riboflavin	6
+saccharin	10
+salicylate	10
+sebacate	6
+serine	2
+shikimate	10
+sorbitol	9
+sphinganine	21
+sphingosine	15
+stearic acid	19
+stearoyl ethanolamide	7
+suberate	6
+succite	2
+tartarate	12
+taurine	7
+taurochenodesoxycholic acid	8
+taurodeoxycholate/taurochenodeoxycholate*	10
+taurodeoxycholic acid	10
+taurohyodeoxycholate/ tauroursodeoxycholate	8
+taurolithocholic acid	10
+tetradecanedioate	13
+thiamine	6
+threonine	2
+threosphingosine	15
+thymine	3
+triethanolamine	19
+trigonelline	2
+trimethylbenzene*	10
+trimethyllysine	2
+tryptophan	2
+tyrosine	2
+undecanedionate	6
+uracil	3
+urate	23
+uridine	10
+urobilin	4
+urobilin*	4
+urocanic acid	3
+valine	2
+xanthine	3
+xylose	3
