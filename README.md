@@ -1,4 +1,4 @@
-# Metabolite-Disease Links(MDLink)
+# Metabolite-Disease Links (MDLink)
 
 This repo includes the data, step-by-step guidance, and analysis results for the case studies described in the MDLink manuscript:  
   **MDLink: a web server for in-depth metabolite-disease association profiling through biomedical knowledge mining.**
